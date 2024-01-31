@@ -1,0 +1,27 @@
+/* src/components/ShowList.css */
+.loading {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .show-list-container {
+    padding: 20px;
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+  }
+  
+  .card-text {
+    color: #666;
+  }
+  
+  .card-img-top {
+    height: 200px;
+    object-fit: cover;
+  }
+  
